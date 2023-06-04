@@ -1,0 +1,9 @@
+.navbar a {
+    color: #fff;
+
+}
+
+.navbar a:hover
+{
+    color:rgb(231, 123, 22);
+}
